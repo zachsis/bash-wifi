@@ -1,1 +1,3 @@
 # bash-wifi
+
+Scripts related to wifi pentesting / aircrack-ng / wifi pineapple, etc...
